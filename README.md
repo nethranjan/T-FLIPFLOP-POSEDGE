@@ -40,3 +40,7 @@ From the above characteristic table, we can directly write the next state equati
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+
+
+<img width="1620" height="888" alt="Screenshot 2025-10-07 210800" src="https://github.com/user-attachments/assets/7a5545c5-7298-4da8-bc6e-60202a895143" />
+<img width="1900" height="425" alt="Screenshot 2025-10-07 210924" src="https://github.com/user-attachments/assets/601921e7-fe43-4fdc-89c2-189755456449" />
